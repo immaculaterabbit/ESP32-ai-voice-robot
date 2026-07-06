@@ -8,16 +8,16 @@ This repository contains the firmware development and custom features built on t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="robot1.jpeg" alt="Flappy Bird Mini Game" width="250px"/><br/>
-      <sub><b>Retro Gaming (Flappy Bird)</b></sub>
-    </td>
-    <td align="center">
       <img src="robot2.jpeg" alt="Bitcoin Tracker" width="250px"/><br/>
       <sub><b>Crypto Tracker (BTC/USD)</b></sub>
     </td>
     <td align="center">
       <img src="robot3.jpeg" alt="Camera Stream" width="250px"/><br/>
       <sub><b>Real-time Camera Monitor</b></sub>
+    </td>
+    <td align="center">
+      <img src="robot1.jpeg" alt="Flappy Bird Mini Game" width="250px"/><br/>
+      <sub><b>Retro Gaming (Flappy Bird)</b></sub>
     </td>
   </tr>
 </table>
